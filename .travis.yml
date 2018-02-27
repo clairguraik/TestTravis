@@ -4,8 +4,8 @@ install: true
 addons:
   sonarcloud:
     organization: clairguraik-github
-    token: 88fba1f017983f5685c5afdf501aecd2f36dd0b4
-      secure:
+    token:
+      secure: 88fba1f017983f5685c5afdf501aecd2f36dd0b4
 jdk:
   - oraclejdk8
 script:
